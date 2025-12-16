@@ -23,7 +23,7 @@ This is a responsive real estate website showcasing my skills in HTML, CSS, and 
 
 1. Clone this repository to your local machine using:
    ```
-   git clone https://github.com/your-username/real-estate-website.git
+   git clone https://github.com/obaid/real-estate-website.git
    ```
 
 2. Open the `index.html` file in your web browser to view the website.
